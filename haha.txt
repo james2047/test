@@ -1,3 +1,4 @@
 1.haahaha
 
-github i'm gonna learn you.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
